@@ -23,8 +23,10 @@
                     {
                         Console.WriteLine($"{numeroTabuada} x {i} = {numeroTabuada * i}");
                     }
+                    Console.WriteLine("\nPressione enter para continuar...");
                     Console.ReadLine();
-                    return;
+                    Console.Clear();
+                    continue;
                 }
                 else if (operacaoSelecionada == "6")
                 {
@@ -35,8 +37,10 @@
                         Console.WriteLine($"{histOperacoes[i]}");
                     }
                     }
+                    Console.WriteLine("\nPressione enter para continuar...");
                     Console.ReadLine();
-                    return;
+                    Console.Clear();
+                    continue;
                 }
 
                 Console.WriteLine("\nInsira o primeiro número: ");
