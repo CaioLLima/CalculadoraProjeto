@@ -69,10 +69,7 @@
                         }
                         resultOperacao = numero1 / numero2;
                         histOperacoes[contHistorico] = $"\n{numero1} / {numero2} = {resultOperacao}";
-                        break;
-                    case "5":
-                        Console.WriteLine("O número 0 é inválido. Digite outro número.");
-                        break;
+                        break;                
                 }
 
                 Console.WriteLine("\nResultado: " + resultOperacao);
