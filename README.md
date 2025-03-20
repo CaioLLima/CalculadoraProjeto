@@ -1,14 +1,14 @@
-# Calculadora Tabajara 2025
+# Calculadora Simples 2025
 
-## Introdução
+## IntroduÃ§Ã£o
 
-Uma calculadora de console simples que permite realizar as quatro operações, além de visualizar a tabuada e o histórico de operações.
+Uma calculadora de console simples que permite realizar as quatro operaÃ§Ãµes, alÃ©m de visualizar a tabuada e o histÃ³rico de operaÃ§Ãµes.
 
 ## Funcionalidades
 
-- Operações Básicas: Realize adições, subtrações, multiplicações e divisões com facilidade.
-- Suporte a Decimais: Trabalho com números com casas decimais.
-- Validação de Entrada: A calculadora garante que apenas opções válidas sejam realizadas.
-- **Tratamento de Divisão por Zero**: A calculadora é capaz de detectar erros como divisão por zero.
-- **Tabuada**: A calculadora é capaz de gerar a tabuada de um número informado.
-- **Histórico de Operações**: A calculadora é capaz de armazenar um histórico de operações.
+- OperaÃ§Ãµes BÃ¡sicas: Realize adiÃ§Ãµes, subtraÃ§Ãµes, multiplicaÃ§Ãµes e divisÃµes com facilidade.
+- Suporte a Decimais: Trabalho com nÃºmeros com casas decimais.
+- ValidaÃ§Ã£o de Entrada: A calculadora garante que apenas opÃ§Ãµes vÃ¡lidas sejam realizadas.
+- **Tratamento de DivisÃ£o por Zero**: A calculadora Ã© capaz de detectar erros como divisÃ£o por zero.
+- **Tabuada**: A calculadora Ã© capaz de gerar a tabuada de um nÃºmero informado.
+- **HistÃ³rico de OperaÃ§Ãµes**: A calculadora Ã© capaz de armazenar um histÃ³rico de operaÃ§Ãµes.
