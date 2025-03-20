@@ -1,6 +1,6 @@
 # Calculadora Simples 2025
 
-![Gif Calculadora](https://imgur.com/89lb1GN)
+![Gif Calculadora](https://imgur.com/89lb1GN.gif)
 ## Introdução
 
 Uma calculadora de console simples que permite realizar as quatro operações, além de visualizar a tabuada e o histórico de operações.
